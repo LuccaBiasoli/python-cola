@@ -13,5 +13,3 @@ while contador < 5:
 for v in zip(lista, listao):
     print(v)
 
-if '3' in contador:
-    print('chegou no 3')
